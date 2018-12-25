@@ -1,4 +1,5 @@
 # easy-go
+```
 package main
 
 import (
@@ -14,3 +15,4 @@ func main() {
 		fmt.Println(ip_iter.Next())
 	}
 }
+```
