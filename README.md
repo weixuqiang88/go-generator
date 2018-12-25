@@ -3,7 +3,7 @@
 package main
 
 import (
-	"easy"
+	"github.com/weixuqiang88/easy-go"
 	"fmt"
 )
 
