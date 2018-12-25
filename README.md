@@ -1,5 +1,7 @@
 # easy-go
 ```
+一个可简化编写的常用go函数库.
+
 package main
 
 import (
