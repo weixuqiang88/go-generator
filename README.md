@@ -1,6 +1,6 @@
 # easy-go
 ```
-一个简单的go常用函数库.
+a simple go library, some go common functions.
 
 package main
 
